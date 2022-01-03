@@ -46,3 +46,32 @@ function multiply(a, b){
   - MA European Studies, _2014-2016_
 - **V. N. Karazin Kharkiv National University**
   - BA History, _2010-2014_
+
+### Experience
+***
+
+- #### Playtech feb  2021 - To Present
+  - **Role:** Business Analyst
+  
+_Description:_
+Collaboration with the team: requirements communication, meetings' facilitation, and supporting team members during software development, maintaining the product backlog.  
+ 
+- #### Alpha-Bots Jun  2020 - Feb 2021
+  - **Role:** Business Analyst
+ 
+ _Description:_
+ Communication with stakeholders (customers, developer team) highlighting problems and opportunities, suggestion the actions which need to take based on analysis.
+ 
+ - #### Magetic AI Jul 2019 - Mar 2020
+    - **Role:** Administrative Assistant to CEO/ Business Analyst
+
+_Description:_
+Managing project implementation: tracking project status and progress, participating in scrum meetings.
+
+### Languages
+***
+Ukrainian, Russian - native 
+
+English - B2
+
+Polish - C2
